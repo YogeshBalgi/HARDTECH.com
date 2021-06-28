@@ -93,7 +93,8 @@ header {
   margin: 25px auto;
 }
 .shop2 {
-  height: 100vh;
+  min-height: 100vh;
+  max-height: fit-content;
 }
 .space {
   width: 250px;
